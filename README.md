@@ -1,3 +1,3 @@
 # btc-data
 
-Variation of bitcoin over the years
+Bitcoin price variation over the years
